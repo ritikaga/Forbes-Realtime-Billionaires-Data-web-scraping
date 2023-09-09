@@ -15,7 +15,7 @@ Extracting data from the Forbes website of the top billionaires in 2023 can be e
 <img width="770" alt="image" src="https://github.com/ritikaga/Forbes-Realtime-Billionaires-Data-web-scraping/assets/66274316/f42297e9-a1b4-4769-8ab3-a3560638a508">
 
 
-Uploading Web Scraping Pyrhon.mp4…
+
 
 
 
